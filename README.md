@@ -1,16 +1,34 @@
-# weather
+# Weather App
 
-A new Flutter project.
+This is a simple Weather App made using **Flutter** and **Dart**.
 
-## Getting Started
+It shows live **temperature, humidity, wind speed, and weather condition** of any city using the **OpenWeatherMap API**.
 
-This project is a starting point for a Flutter application.
+## Platforms
 
-A few resources to get you started if this is your first Flutter project:
+- Android
+- iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Get weather by city name
+- Shows temperature in °C
+- Shows humidity and wind speed
+- Clean and simple UI
+
+## API Used
+
+Data is fetched from:  
+[https://openweathermap.org/api](https://openweathermap.org/api)
+
+## APK Download (Android only)
+
+👉 [Click here to download APK](https://drive.google.com/file/d/1ZVmTSFWoE1EHlfO7XKDzU6BAvOaxbdKN/view?usp=sharing)
+
+*(Allow "Install from unknown sources" in phone settings)*
+
+## How to Run
+
+```bash
+flutter pub get
+flutter run
