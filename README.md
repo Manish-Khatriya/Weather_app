@@ -4,6 +4,15 @@ This is a simple Weather App made using **Flutter** and **Dart**.
 
 It shows live **temperature, humidity, wind speed, and weather condition** of any city using the **OpenWeatherMap API**.
 
+📚 What I Learned from This Project :
+- How to handle REST APIs in Flutter
+- How to manage state efficiently
+- How to build responsive UI using MediaQuery
+- How to integrate API data with the UI
+- Real-world use of Flutter widgets for layout and design
+- How Dart language works in Flutter development
+- How to build and install Android APK files
+
 ## Platforms
 
 - Android
